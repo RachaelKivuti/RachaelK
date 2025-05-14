@@ -1,4 +1,4 @@
-<h1 align="center">Rachael's Cybersecurity Portfolio</h1>
+<h1 align="center">👋 Get to Know Me</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F70000&center=true&vCenter=true&width=800&height=60&lines=Offensive+Security+%7C+Red+Teamer+in+Training;Computer+Technology+%7C+Developer+%26+Creative+Tech+Designer;Breaking+things+ethically;Learning+by+doing%2C+evolving+and+securing+the+future;Catch+me+in+the+lab" alt="Typing SVG" />
@@ -8,42 +8,46 @@
 
 ## Skills & Technologies
 
-### Languages:
-![Python](https://img.shields.io/badge/Python-%23FFD43B.svg?style=flat-square&logo=python&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%230175C1.svg?style=flat-square&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
-![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%23778CB1.svg?style=flat-square&logo=php&logoColor=white)
+### Languages
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" alt="Bash"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" alt="Dart"/>
 
-### Frameworks:
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-%2302566B.svg?style=flat-square&logo=flutter&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white)
+### Frameworks
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" alt="Flutter"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="40" alt="Laravel"/>
 
-### Tools:
-![Wireshark](https://img.shields.io/badge/Wireshark-%238F0A25.svg?style=flat-square&logo=wireshark&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-%23E64141.svg?style=flat-square&logo=metasploit&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-%23FF5E00.svg?style=flat-square&logo=nmap&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-%23026B6B.svg?style=flat-square&logo=burp-suite&logoColor=white)
-![Autopsy](https://img.shields.io/badge/Autopsy-%23292929.svg?style=flat-square&logo=autopsy&logoColor=white)
-![FTK Imager](https://img.shields.io/badge/FTK_Imager-%23000000.svg?style=flat-square&logo=forensic-toolkit&logoColor=white)
-![Maltego](https://img.shields.io/badge/Maltego-%23FF9A33.svg?style=flat-square&logo=maltego&logoColor=white)
-![Volatility](https://img.shields.io/badge/Volatility-%23D83536.svg?style=flat-square&logo=volatility&logoColor=white)
+### Security Tools
+<img src="https://img.icons8.com/color/48/000000/wireshark.png" width="40" alt="Wireshark"/>
+<img src="https://img.icons8.com/external-flatart-icons-flat-flatarticons/64/000000/external-nmap-cyber-security-flatart-icons-flat-flatarticons.png" width="40" alt="Nmap"/>
+<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/burp-suite.png" width="40" alt="Burp Suite"/>
+<img src="https://img.icons8.com/color/48/000000/metasploit.png" width="40" alt="Metasploit"/>
+<img src="https://img.icons8.com/ios/50/000000/forensics.png" width="40" alt="Autopsy"/>
+<img src="https://img.icons8.com/ios/50/000000/database.png" width="40" alt="FTK Imager"/>
+<img src="https://img.icons8.com/ios/50/000000/graph.png" width="40" alt="Maltego"/>
+<img src="https://img.icons8.com/external-kiranshastry-lineal-color-kiranshastry/64/000000/memory.png" width="40" alt="Volatility"/>
 
-### Cloud Platforms:
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-%23007FFF.svg?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-%23F80000.svg?style=flat-square&logo=oracle&logoColor=white)
+### Cloud Platforms
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" alt="Google Cloud"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" alt="Azure"/>
+<img src="https://img.icons8.com/color/48/000000/oracle-logo.png" width="40" alt="Oracle Cloud"/>
+
+---
 
 ---
 
 ## GitHub Stats & Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/username=RachaelKivuti&layout=compact&theme=default&hide=html,css)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RachaelKivuti&show_icons=true&theme=default)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RachaelKivuti&layout=compact&theme=radical" alt="Top Languages" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=RachaelKivuti&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" />
+</p>
 
 ---
 
