@@ -1,6 +1,6 @@
 <h2 align="center"> Hey there👋</h2>
 
-<p align="center">
+<p>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=800&height=60&lines=Offensive+Security+%7C+Red+Teamer+in+Training;Computer+Technology+%7C+Developer+%26+Creative+Tech+Designer;Breaking+things+ethically;Learning+by+doing%2C+evolving+and+securing+the+future;Catch+me+in+the+lab" alt="Typing SVG" />
 </p>
 
@@ -21,7 +21,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
-  ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white)
+  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white" height="40"/>
 </p>
 
 ### Security Tools  
@@ -48,6 +48,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RachaelKivuti&layout=compact&theme=tokyonight&langs_count=6&hide=css,html" width="48%" alt="Top Languages"/>
   <img src="https://github-readme-stats.vercel.app/api?username=RachaelKivuti&show_icons=true&theme=tokyonight&include_all_commits=true" width="48%" alt="GitHub Stats"/>
 </p>
+
 ---
 
 ## Certifications
