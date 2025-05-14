@@ -1,4 +1,4 @@
-<h3 align="center"> Hey there👋</h3>
+<h2 align="center"> Hey there👋</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F70000&center=true&vCenter=true&width=800&height=60&lines=Offensive+Security+%7C+Red+Teamer+in+Training;Computer+Technology+%7C+Developer+%26+Creative+Tech+Designer;Breaking+things+ethically;Learning+by+doing%2C+evolving+and+securing+the+future;Catch+me+in+the+lab" alt="Typing SVG" />
@@ -45,10 +45,10 @@
 
 ---
 
-### Github Stats and Top Languages
+### Github Stats 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachael-oss&layout=compact&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=rachael-oss&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RachaelKivuti&layout=compact&theme=tokyonight&langs_count=6&hide=css,html" width="48%" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RachaelKivuti&show_icons=true&theme=tokyonight&include_all_commits=true" width="48%" alt="GitHub Stats"/>
 </p>
 
 ---
