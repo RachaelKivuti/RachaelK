@@ -4,6 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=800&height=60&lines=Offensive+Security+%7C+Red+Teamer+in+Training;Computer+Technology+%7C+Developer+%26+Creative+Tech+Designer;Breaking+things+ethically;Learning+by+doing%2C+evolving+and+securing+the+future;Catch+me+in+the+lab" alt="Typing SVG" />
 </p>
 
+---
 
 ### Languages  
 <p>
@@ -15,25 +16,23 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40"/>
 </p>
 
-### Frameworks & Libraries  
+### Frameworks  
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40"/>
+  ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white)
 </p>
 
 ### Security Tools  
-<p>
-  <img src="https://raw.githubusercontent.com/techgaun/badges/master/icons/wireshark.png" width="40" alt="Wireshark" />
-  <img src="https://www.vectorlogo.zone/logos/nmap/nmap-icon.svg" width="40" alt="Nmap"/>
-  <img src="https://avatars.githubusercontent.com/u/31985785?s=200&v=4" width="40" alt="Burp Suite" />
-  <img src="https://www.offensive-security.com/wp-content/uploads/2021/03/metasploit-logo.png" width="40" alt="Metasploit" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Maltego_Logo.png/600px-Maltego_Logo.png" width="40" alt="Maltego"/>
-  <img src="https://www.sleuthkit.org/autopsy/images/autopsy-icon.png" width="40" alt="Autopsy" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/FTK_Logo.png/320px-FTK_Logo.png" width="40" alt="FTK Imager"/>
-  <img src="https://raw.githubusercontent.com/volatilityfoundation/volatility3/main/docs/_static/logo/volatility-logo.png" width="60" alt="Volatility"/>
-</p>
+![Wireshark](https://img.shields.io/badge/Wireshark-%238F0A25.svg?style=flat-square&logo=wireshark&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-%23E64141.svg?style=flat-square&logo=metasploit&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-%23FF5E00.svg?style=flat-square&logo=nmap&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-%23026B6B.svg?style=flat-square&logo=burp-suite&logoColor=white)
+![Autopsy](https://img.shields.io/badge/Autopsy-%23292929.svg?style=flat-square&logo=autopsy&logoColor=white)
+![FTK Imager](https://img.shields.io/badge/FTK_Imager-%23000000.svg?style=flat-square&logo=forensic-toolkit&logoColor=white)
+![Maltego](https://img.shields.io/badge/Maltego-%23FF9A33.svg?style=flat-square&logo=maltego&logoColor=white)
+![Volatility](https://img.shields.io/badge/Volatility-%23D83536.svg?style=flat-square&logo=volatility&logoColor=white)
 
 ### Cloud Platforms  
 <p>
@@ -72,5 +71,5 @@
 
 ---
 
-*Feel free to browse my repositories, fork something cool or just drop a "hi" — I'm always up for cybersecurity conversations or collabs*
+*Feel free to browse my repositories, fork something cool or just drop a "hi"....I'm always up for cybersecurity conversations or collabs*
 
