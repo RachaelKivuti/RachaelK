@@ -1,45 +1,54 @@
-<h3 align="center"> Hey there👋, Get to know me</h3>
+<h3 align="center"> Hey there👋</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F70000&center=true&vCenter=true&width=800&lines=🚩+Offensive+Security+%7C+Red+Teamer+in+Training;💻+Creative+Tech+Designer+%7C+CTI+Practitioner;🔍+Breaking+things+ethically+to+secure+tomorrow;👩🏽‍💻+Always+in+the+lab%2C+always+learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F70000&center=true&vCenter=true&width=800&height=60&lines=Offensive+Security+%7C+Red+Teamer+in+Training;Computer+Technology+%7C+Developer+%26+Creative+Tech+Designer;Breaking+things+ethically;Learning+by+doing%2C+evolving+and+securing+the+future;Catch+me+in+the+lab" alt="Typing SVG" />
 </p>
 
 ---
 
 ### Languages  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" alt="Python"/> Python &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" alt="JavaScript"/> JavaScript &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="30" alt="Bash"/> Bash &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="30" alt="Java"/> Java &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="30" alt="PHP"/> PHP &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="30" alt="Dart"/> Dart
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="40"/>
+</p>
 
 ### Frameworks & Libraries  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" alt="React"/> React &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="30" alt="Flutter"/> Flutter &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" alt="Node.js"/> Node.js &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" width="30" alt="Laravel"/> Laravel
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="40"/>
+</p>
 
 ### Security Tools  
-<img src="https://raw.githubusercontent.com/techgaun/badges/master/icons/wireshark.png" width="30" alt="Wireshark"/> Wireshark &nbsp;
-<img src="https://www.vectorlogo.zone/logos/nmap/nmap-icon.svg" width="30" alt="Nmap"/> Nmap &nbsp;
-<img src="https://avatars.githubusercontent.com/u/31985785?s=200&v=4" width="30" alt="Burp Suite"/> Burp Suite &nbsp;
-<img src="https://www.offensive-security.com/wp-content/uploads/2021/03/metasploit-logo.png" width="30" alt="Metasploit"/> Metasploit &nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Maltego_Logo.png/600px-Maltego_Logo.png" width="30" alt="Maltego"/> Maltego &nbsp;
-<img src="https://www.sleuthkit.org/autopsy/images/autopsy-icon.png" width="30" alt="Autopsy"/> Autopsy &nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/FTK_Logo.png/320px-FTK_Logo.png" width="30" alt="FTK Imager"/> FTK Imager &nbsp;
-<img src="https://raw.githubusercontent.com/volatilityfoundation/volatility3/main/docs/_static/logo/volatility-logo.png" width="50" alt="Volatility"/> Volatility
+<p>
+  <img src="https://img.icons8.com/color/48/wireshark.png" height="40" title="Wireshark"/>
+  <img src="https://img.icons8.com/fluency/48/nmap.png" height="40" title="Nmap"/>
+  <img src="https://raw.githubusercontent.com/B0nster/icons/main/burp.png" height="40" title="Burp Suite"/>
+  <img src="https://raw.githubusercontent.com/B0nster/icons/main/metasploit.png" height="40" title="Metasploit"/>
+  <img src="https://raw.githubusercontent.com/B0nster/icons/main/maltego.png" height="40" title="Maltego"/>
+  <img src="https://raw.githubusercontent.com/B0nster/icons/main/autopsy.png" height="40" title="Autopsy"/>
+  <img src="https://raw.githubusercontent.com/B0nster/icons/main/ftk.png" height="40" title="FTK Imager"/>
+  <img src="https://raw.githubusercontent.com/B0nster/icons/main/volatility.png" height="40" title="Volatility"/>
+</p>
 
 ### Cloud Platforms  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="30" alt="GCP"/> Google Cloud &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="30" alt="Azure"/> Azure &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="30" alt="Oracle"/> Oracle Cloud
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40"/>
+</p>
 
 ---
 
+### Github Stats and Top Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RachaelKivuti&layout=compact&theme=tokyonight&langs_count=6&hide=css,html" width="48%" alt="Top Languages"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=RachaelKivuti&show_icons=true&theme=tokyonight&include_all_commits=true" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachael-oss&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=rachael-oss&show_icons=true&theme=tokyonight" height="170"/>
 </p>
 
 ---
@@ -62,5 +71,5 @@
 
 ---
 
-*Feel free to browse my repositories, fork something cool or just drop a "hi" — I'm always up for cybersecurity conversations or collabs!*
+*Feel free to browse my repositories, fork something cool or just drop a "hi" — I'm always up for cybersecurity conversations or collabs*
 
